@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Calculadora Geometrica</string>
+    <string name="id">No.</string>
+    <string name="operacion">Operacion</string>
+    <string name="longitudes">Longitudes</string>
+    <string name="area_volumen">Area/Volumen</string>
+    <string name="areas">Areas</string>
+    <string name="volumenes">Volumenes</string>
+    <string name="op_realizadas">Operaciones Realizadas</string>
+    <string name="area">AREAS</string>
+    <string name="volumen">VOLUMENES</string>
+    <string name="cuadrado">CUADRADO</string>
+    <string name="rectangulo">RECTANGULO</string>
+    <string name="triangulo">TRIANGULO</string>
+    <string name="cubo">CUBO</string>
+    <string name="esfera">ESFERA</string>
+    <string name="cilindro">CILINDRO</string>
+    <string name="leyendaC">Hallar el area de un cudrado con lado: </string>
+    <string name="leyendaR">Hallar el area de un rectangulo con lados:</string>
+    <string name="leyendaT">Hallar el area de un triangulo con lado:</string>
+    <string name="leyendaCu">Hallar el volumen de un cubo con arista:</string>
+    <string name="leyendaE">Hallar el volumen de una esfera con radio:</string>
+    <string name="leyendaCi">Hallar el volumen de un cilindro con radio y altura:</string>
+    <string name="base">Base</string>
+    <string name="radio">Radio</string>
+    <string name="altura">Altura</string>
+    <string name="op_agregada">Operacion registrada Exitosamente</string>
+    <string name="harea">AREA</string>
+    <string name="hvolumen">VOLUMEN</string>
+    <string name="reiniciar">REINICIAR</string>
+    <string name="Error_1">Ingrese una cantidad</string>
+    <string name="Error_2">Ingrese un cantidad mayor a CERO</string>
+    <string name="TipoAC">Area Cuadrado</string>
+    <string name="TipoAR">Area Rectangulo</string>
+    <string name="TipoAT">Area Triangulo</string>
+    <string name="TipoVCu">Volumen Cubo</string>
+    <string name="TipoVE">Volumen Esfera</string>
+    <string name="TipoVCi">Volumen Cilindro</string>
+    <string name="resultados">RESULTADO</string>
+    <string name="lcuadrado">Lado</string>
+    <string name="arista">Arista</string>
+
+    <string-array name="principal">
+        <item>@string/areas</item>
+        <item>@string/volumenes</item>
+        <item>@string/op_realizadas</item>
+    </string-array>
+
+    <string-array name="areas">
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+        <item>@string/triangulo</item>
+    </string-array>
+
+    <string-array name="volumenes">
+        <item>@string/cubo</item>
+        <item>@string/esfera</item>
+        <item>@string/cilindro</item>
+    </string-array>
+
+
+</resources>
